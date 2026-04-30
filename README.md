@@ -4,7 +4,7 @@ Talmage Lee (https://github.com/tjlee03/Group-Project-2)
 
 Mikey Cap (https://github.com/mgc96398/Group-Project-2)
 
-MaKenna Clark 
+MaKenna Clark  (https://github.com/MakennaClark/Group-Project-2)
 
 Willam Barret
 

@@ -2,7 +2,7 @@
 # Group 2 
 Talmage Lee (https://github.com/tjlee03/Group-Project-2)
 
-Mikey Cap
+Mikey Cap (https://github.com/mgc96398/Group-Project-2)
 
 MaKenna Clark 
 

@@ -75,7 +75,9 @@ Our analysis reveals a dramatic structural transformation in how the United Stat
 **Per capita consumption reveals hidden patterns.** Raw consumption figures are misleading because they reflect population size. Our per capita analysis revealed that Alaska (1,013 billion Btu per thousand people), Louisiana (908), North Dakota (892), and Wyoming (854) consume four to six times more energy per person than Rhode Island (166), California (174), or New York (174). The high per capita states are dominated by energy extraction, refining, and heavy industry. The low per capita states tend to have service-based economies, milder climates, and denser populations.
 
 <img width="614" height="408" alt="image" src="https://github.com/user-attachments/assets/6a79f706-044f-4852-a0e2-9d2351e2713b" />
-
+<img width="635" height="406" alt="image" src="https://github.com/user-attachments/assets/3bed3682-202b-4831-9463-e2b9949561c1" />
+<img width="643" height="374" alt="image" src="https://github.com/user-attachments/assets/cce5d33a-9123-46e3-aee4-4143c3cc107b" />
+<img width="640" height="401" alt="image" src="https://github.com/user-attachments/assets/5704b290-26f0-46f8-8b83-d23744530a00" />
 *(Supporting visualizations: Sector Trend Stacked Area Chart, Sector Share Stacked Area Chart, Per Capita Bar Chart by State, State Sector Profiles Stacked Bar Chart)*
 
 ### Question 2 Findings: The Renewable Energy Transition

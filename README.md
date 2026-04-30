@@ -1,8 +1,11 @@
 # Group-Project-2
 # Group 2 
-Talmage Lee 
+Talmage Lee (https://github.com/tjlee03/Group-Project-2)
+
 Mikey Cap
+
 MaKenna Clark 
+
 Willam Barret
 
 # Data Set Description

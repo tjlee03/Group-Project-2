@@ -6,7 +6,7 @@ Mikey Cap (https://github.com/mgc96398/Group-Project-2)
 
 MaKenna Clark  (https://github.com/MakennaClark/Group-Project-2)
 
-Willam Barret (https://github.com/Wbarrett1013/Group-Project-2)
+William Barret (https://github.com/Wbarrett1013/Group-Project-2)
 
 # Data Set Description
 Our dataset is the **Complete State Energy Data System (SEDS)**, published by the U.S. Energy Information Administration (EIA) and obtained from the U.S. government's open data portal at [data.gov](https://catalog.data.gov/dataset/state-energy-data-system-seds?from_hint=eyJxIjoiIiwic29ydCI6InBvcHVsYXJpdHkiLCJzcGF0aWFsX2ZpbHRlciI6IiIsIm9yZ19zbHVnIjoiZW5lcmd5In0%3D). The EIA's State Energy Data System is the most comprehensive source of state-level energy statistics in the United States, providing historical time series of energy production, consumption, prices, expenditures, and carbon dioxide emissions by state.

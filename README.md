@@ -96,7 +96,13 @@ Our analysis reveals that while renewable energy is growing, the transition is u
 
 **Georgia as a case study.** Georgia illustrates the coal-to-solar transition at the state level. In 2005, Georgia consumed 901,010 billion Btu of coal. By 2023, that figure had fallen to 177,521 — an 80% decline. Meanwhile, solar energy in Georgia exploded from just 1,064 billion Btu in 2014 to 27,863 in 2023, a 26-fold increase in under a decade. Georgia is also notable as a nuclear energy state, with nuclear power providing 13.8% of its total energy consumption, partly due to the Plant Vogtle expansion — one of the only new nuclear plants built in the United States in the 21st century.
 
-*(Supporting visualizations: Renewable Share Bar Chart by State, Renewable Breakdown Stacked Bar Chart, Fossil Fuel Breakdown Area Chart, Georgia Coal vs Solar Dual Axis Chart, Energy Intensity Line Chart, Renewable Share Dumbbell Chart 2000 vs 2023)*
+<img width="612" height="410" alt="image" src="https://github.com/user-attachments/assets/54fd2c3b-cb4d-45d2-890e-deba379b3bfd" />
+<img width="664" height="415" alt="image" src="https://github.com/user-attachments/assets/3f42c39d-75ab-4232-a5b1-8e6f2c8fbaa0" />
+<img width="704" height="415" alt="image" src="https://github.com/user-attachments/assets/2d0be181-0d9b-43b0-b993-3077d2a1a1cd" />
+<img width="695" height="410" alt="image" src="https://github.com/user-attachments/assets/090a20a6-de1f-4e34-9018-9b12d1449cfd" />
+<img width="697" height="407" alt="image" src="https://github.com/user-attachments/assets/02df1f05-3ab8-4635-9afd-b3f5ccb41a6c" />
+
+*(Supporting visualizations: Renewable Share Bar Chart by State, Renewable Breakdown Stacked Bar Chart, Fossil Fuel Breakdown Area Chart, Georgia Coal vs Solar Dual Axis Chart, Energy Intensity Line Chart)
 
 
 # Tableau Packaged Workbook

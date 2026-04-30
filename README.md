@@ -4,7 +4,7 @@
 Group 2
 
 # Data Set Description
-Our dataset is the **Complete State Energy Data System (SEDS)**, published by the U.S. Energy Information Administration (EIA) and obtained from the U.S. government's open data portal at [data.gov](https://catalog.data.gov/dataset). The EIA's State Energy Data System is the most comprehensive source of state-level energy statistics in the United States, providing historical time series of energy production, consumption, prices, expenditures, and carbon dioxide emissions by state.
+Our dataset is the **Complete State Energy Data System (SEDS)**, published by the U.S. Energy Information Administration (EIA) and obtained from the U.S. government's open data portal at [data.gov](https://catalog.data.gov/dataset/state-energy-data-system-seds?from_hint=eyJxIjoiIiwic29ydCI6InBvcHVsYXJpdHkiLCJzcGF0aWFsX2ZpbHRlciI6IiIsIm9yZ19zbHVnIjoiZW5lcmd5In0%3D). The EIA's State Energy Data System is the most comprehensive source of state-level energy statistics in the United States, providing historical time series of energy production, consumption, prices, expenditures, and carbon dioxide emissions by state.
 
 The dataset contains **2,364,930 rows** and **5 columns**, spanning **1960 to 2023** across all **50 states**, the District of Columbia, the United States aggregate, and two federal offshore regions (X3 and X5). It encompasses **920 unique Mnemonic Series Name (MSN) codes**, each representing a distinct energy variable such as a specific fuel type consumed by a particular economic sector, measured in a specific unit.
 

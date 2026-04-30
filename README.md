@@ -33,9 +33,7 @@ From an environmental perspective, the growth of renewable energy directly reduc
 This question is tied to the dataset through the MSN codes RETCB (total renewable consumption), FFTCB (total fossil fuel consumption), TETCB (total energy consumption), SOTCB (solar), WYTCB (wind), HYTCB (hydropower), BMTCB (biomass), GETCB (geothermal), CLTCB (coal), NNTCB (natural gas), and PMTCB (petroleum). These codes enable us to track both aggregate trends and granular breakdowns by energy source across states and years.
 
 
-# Manipulations
-
-## Data Manipulations
+# Data Manipulations
 
 The SEDS dataset presented a challenges because of its structure. Rather than containing separate columns for each measure (e.g., one column for residential energy, another for commercial energy), all values are stored in a single "Data" column, with the MSN code identifying what each value represents. This means that a single row might contain residential energy consumption in billion Btu, while the next row for the same state and year might contain crude oil production in thousand barrels. Mixing these values without careful filtering would produce meaningless results.
 
